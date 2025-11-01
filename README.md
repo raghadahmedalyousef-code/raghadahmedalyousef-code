@@ -58,26 +58,6 @@ Microsoft Office (Word · Excel · PowerPoint) · Git · VS Code · Figma
 
 ---
 
-## 👩🏻‍💻 Experience
-**Head of Computer Science Club**  
-*Jubail Industrial College* – *(Aug 2021 – Present)*  
-- Organized and led technical workshops and hackathons.  
-- Managed volunteers and student-led technology initiatives.  
-
----
-
-## 🚀 Projects
-
-| Project | Description | Link |
-|----------|--------------|------|
-| 🧠 **[Rased – Crowd Detection & Prediction](https://github.com/raghadahmedalyousef-code/Rased)** | AI-powered graduation project using **YOLOv8** for real-time crowd analysis and density prediction. | 🎓 |
-| 🦺 **[SecureZone – Industrial Safety Tracking](https://github.com/raghadahmedalyousef-code/SecureZone)** | Computer Vision system detecting PPE compliance to improve safety in industrial environments. *(SASREF Hackathon Winner)* | 🥇 |
-| 💳 **[Riyali – Digital Twin Wallet](https://github.com/raghadahmedalyousef-code/Riyali)** | FinTech app with dynamic virtual cards and financial awareness features. *(Future Fintech Hackathon – KSU)* | 💡 |
-| ✈️ **[CoPilot – Smart Airport Assistant](https://github.com/raghadahmedalyousef-code/copilot)** | Web app integrating flight tracking, luggage tracking, and AI chatbot using PHP + MySQL + JS. | 🌍 |
-| 💊 **[FixUp – Medicine Tracking & Recycling App](https://github.com/raghadahmedalyousef-code/FixUp)** | HCI project promoting safe medicine recycling and tracking using mobile-friendly UI. | ♻️ |
-
----
-
 ## 🌐 Languages
 - 🇸🇦 **Arabic:** Native  
 - 🇬🇧 **English:** Fluent  
