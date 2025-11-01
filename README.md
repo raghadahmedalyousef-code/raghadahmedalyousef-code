@@ -3,7 +3,6 @@
 **🎓 Senior Computer Science Student | AI & Web Development Enthusiast**  
 📍 Jubail / Al Khobar / Riyadh – Saudi Arabia  
 📧 raghadahmedalyousef@gmail.com  
-📞 +966553683335  
 🔗 [LinkedIn](https://www.linkedin.com/in/raghadalyousef)
 
 ---
